@@ -7,6 +7,7 @@ Este repositório contém um conjunto de prompts estruturados para Inteligência
 Os prompts foram desenvolvidos utilizando boas práticas de Prompt Engineering, permitindo interações mais objetivas, previsíveis e produtivas.
 
 🔹 Modos Disponíveis
+
 🟢 ASK
 
 Prompts voltados para:
@@ -114,4 +115,5 @@ Usuários que desejam melhorar a qualidade das respostas da IA
 📄 Licença
 
 Este projeto é de uso educacional e livre para estudos e adaptações.
+
 
